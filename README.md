@@ -1,2 +1,4 @@
-# design-patterns
-设计模式
+
+## 设计模式
+
+[第一章 设计模式概述](/doc/cp1.md)
